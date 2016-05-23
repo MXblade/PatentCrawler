@@ -1,4 +1,4 @@
-package bistu.nlp;
+package bistu.nlp.crawler;
 
 /**
  * Hello world!
